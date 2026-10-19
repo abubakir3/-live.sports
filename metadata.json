@@ -1,0 +1,6 @@
+{
+  "name": "SportPulse - Multi-Sport Portal & Live Platform",
+  "description": "Modern multi-sport live streaming and analytics portal featuring live scoreboards, multi-sport arena, athlete performance calculator, countdown timers, standings, fan voting, and Web Speech API audio commentary in Uzbek, Russian, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
